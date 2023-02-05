@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Galera!! 👋
 
 <div>
 <a href="https://github.com/rbreimberg">
