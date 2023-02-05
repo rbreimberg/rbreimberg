@@ -26,7 +26,7 @@
 <div>
 <h3 align="left">CI/CD:</h3>
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="jenkins" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">
-</a> <a 
+</a> <a  href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </div>
 <div>
 <h3 align="left">Ferramentas de teste:</h3>
